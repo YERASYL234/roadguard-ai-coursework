@@ -1,0 +1,21 @@
+{
+  "train": {
+    "sources": 240,
+    "patches": 2880,
+    "positive": 1471,
+    "negative": 1409
+  },
+  "test": {
+    "sources": 237,
+    "patches": 2844,
+    "positive": 1551,
+    "negative": 1293
+  },
+  "val": {
+    "sources": 60,
+    "patches": 720,
+    "positive": 356,
+    "negative": 364
+  },
+  "duplicates_removed": []
+}

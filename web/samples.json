@@ -1,0 +1,20 @@
+[
+  {
+    "url": "/samples/healthy.jpg",
+    "filename": "healthy.jpg",
+    "label": "Жарықсыз бөлік",
+    "source": "data\\patches\\test\\111212-1_0_0.png"
+  },
+  {
+    "url": "/samples/road.jpg",
+    "filename": "road.jpg",
+    "label": "Жергілікті жарық",
+    "source": "data\\raw\\DeepCrack-master\\dataset\\test_img\\11236-1.jpg"
+  },
+  {
+    "url": "/samples/cracks.jpg",
+    "filename": "cracks.jpg",
+    "label": "Айқын жарықтар",
+    "source": "data\\raw\\DeepCrack-master\\dataset\\test_img\\11271-1.jpg"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "checks": [
+    "HTTP UI and health",
+    "real model inference on 3 files",
+    "invalid image rejection",
+    "404 / traversal protection",
+    "source image SHA256 split isolation",
+    "metrics independently recomputed"
+  ],
+  "examples": [
+    {
+      "sample": "healthy.jpg",
+      "level": "clear",
+      "positive_tiles": 0,
+      "tiles": 1,
+      "elapsed_ms": 30
+    },
+    {
+      "sample": "road.jpg",
+      "level": "damage",
+      "positive_tiles": 3,
+      "tiles": 12,
+      "elapsed_ms": 136
+    },
+    {
+      "sample": "cracks.jpg",
+      "level": "danger",
+      "positive_tiles": 5,
+      "tiles": 12,
+      "elapsed_ms": 124
+    }
+  ],
+  "checkpoint_sha256": "888cb9677e2350bd904600fa2585b6b0ddeeb5aa2264a75814e77e0021a0df99",
+  "browser_checks": [
+    "Responsive interface at narrow and desktop widths",
+    "Sample image selection and live inference",
+    "History and metrics navigation",
+    "JSON report download"
+  ]
+}

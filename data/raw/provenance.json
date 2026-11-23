@@ -1,0 +1,8 @@
+{
+  "dataset": "DeepCrack",
+  "source": "https://github.com/yhlleo/DeepCrack",
+  "download": "https://codeload.github.com/yhlleo/DeepCrack/zip/refs/heads/master",
+  "archive_sha256": "1b9ba2d987fdee010b081d89bd787f865c045a4bf007e27b6f45880bc841c082",
+  "license": "Non-commercial research and educational use only; see original README.",
+  "citation": "Liu et al. DeepCrack, Neurocomputing 338 (2019), 139\u2013153. DOI:10.1016/j.neucom.2019.01.036"
+}

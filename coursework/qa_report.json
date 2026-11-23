@@ -1,0 +1,14 @@
+{
+  "pages": 30,
+  "toc_entries": 25,
+  "toc_pages_match": true,
+  "figures": 10,
+  "tables": 9,
+  "front_matter_preserved": true,
+  "reference_unchanged": true,
+  "a4_margins": true,
+  "body_font": "Times New Roman 14",
+  "first_line_cm": 1.25,
+  "numbering": "no printed 1 or 2; 3 through 30 centered",
+  "visual_review": "All 30 pages inspected; dataset figure label spacing repaired; no clipped text or overlapping tables."
+}
